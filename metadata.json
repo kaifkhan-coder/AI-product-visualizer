@@ -1,0 +1,5 @@
+{
+  "name": "AI Product Visualizer",
+  "description": "An application that takes a product image and visualizes it in various marketing mediums like coffee mugs, billboards, and t-shirts using generative AI. Users can also edit the generated images with text prompts.",
+  "requestFramePermissions": []
+}
